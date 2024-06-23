@@ -10,6 +10,9 @@ The project consists of the following components:
 
 1. `main.ipynb`: This file contains the main Python code for loading the dataset, preprocessing data, building and training the model, and performing real-time face mask detection.
 
+
+![Untitled video - Made with Clipchamp](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/3a0591e5-5e0b-4ea1-a676-9ca40f2c23c1)
+
 ![image](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/35cbe90d-34bf-4718-9890-ae0717a07e84)
 
 ![image](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/62de7f6e-5217-4c52-b9fd-4363567ae737)
