@@ -42,11 +42,10 @@ The key components of the code include:
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to create issues or pull requests.
 
-![image](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/35cbe90d-34bf-4718-9890-ae0717a07e84)
-
-
-![image](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/62de7f6e-5217-4c52-b9fd-4363567ae737)
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the code as per the terms of the license.
+
+![image](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/35cbe90d-34bf-4718-9890-ae0717a07e84)
+
+![image](https://github.com/somwrks/Masked-Face-Detection/assets/85481905/62de7f6e-5217-4c52-b9fd-4363567ae737)
